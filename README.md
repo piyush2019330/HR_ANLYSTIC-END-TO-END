@@ -1,4 +1,6 @@
-📖 Overview
+<img width="1470" height="956" alt="Hr_Anlystic" src="https://github.com/user-attachments/assets/298f9d2d-5823-47db-9866-ce7138f64c97" />
+<img width="1470" height="956" alt="Hr_Anlystics" src="https://github.com/user-attachments/assets/914de406-0730-4fbb-b75d-75cb105ad1e7" />
+
 
 This is an end-to-end HR Analytics project where data is analyzed using Python, SQL, Machine Learning, and Power BI to generate insights about employee behavior and attrition.
 
